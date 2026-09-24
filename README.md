@@ -1,6 +1,6 @@
-# BP-Project_Portfolio_Repo
+## BP-Project_Portfolio_Repo
 
-Here's the main repository of all the projects listed on the resume.
+Here's the main repository of all the projects listed on the resume:
 
 
 
