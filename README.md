@@ -16,4 +16,4 @@
 
 ## [Senior Design Project--Autonomous 2D LiDAR Mapping Rover](https://github.com/bwp7162/EET_452W_2D_Autonomous_LIDAR_Rover_Project)
 
-## [Digital Design Final Project--FPGA Based Vending Machine](https://github.com/bwp7162/EET_316L_Vending_Machine_Project/tree/main)
+## [Digital Design Final Project--FPGA Based Vending Machine](https://github.com/bwp7162/EET_316L_Vending_Machine_Project)
